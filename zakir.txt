@@ -1,0 +1,41 @@
+==>2019-2020
+B.E & M.E 2nd SEMESTER LOAD ALLOCATION FACULTY WISE (2019-2020) (Final)
+i) [PC 234 EC]Computer Organisation & Architecture     2/4 ECE B 
+
+1st semester
+PC505EC	Computer Organization &  Architecture	
+Mr.Md.Zakir Hussain	Mr.Md.Zakir Hussain 
+
+==>2020-2021
+B.E & M.E 2nd SEMESTER REVISED LOAD ALLOCATION FACULTY WISE (2020-2021) (Final)
+i) Computer Organisation & Architecture       2/4 ECE B  3     
+
+1st semester
+EEE	PC222EC	Analog
+Electronics	Mr.Zakir Hussain
+
+EIE	PC222EC	Analog
+Electronics 	Mr.Zakir Hussain
+
+==>2021-2022
+even semester:
+ECE	PC 404 EC	Computer Organization and Architecture 	
+Mr.J.K.Nag	Mr. Md. Zakir Hussain
+
+ODD semester:
+B.E. ECE  III Semester AICTE Model Curriculum 2021-2022
+EEE	PC222EC	Analog
+Electronics	Mr.Zakir Hussain
+EIE	PC222EC	Analog
+Electronics 	Mr.Zakir Hussain
+
+==>2022-2023
+AI&ML	ES302EC	Digital Electronics	Mr.Zakir Hussain
+EEE	PC403EC	Analog Electronics	Mr.Zakir Hussain
+
+
+Based on the following syllabus contents prepare 5 sets, in each set there 
+must be 3 questions without having any repetition : 
+
+
+
